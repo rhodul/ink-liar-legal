@@ -5,7 +5,7 @@ title: Privacy Policy — Ink Liar
 # Privacy Policy for Ink Liar
 
 **Effective date:** 2026-04-20
-**Last updated:** 2026-04-22
+**Last updated:** 2026-04-27
 
 "Ink Liar" (the "App") is a free Android game published by Rastislav
 Hodul ("we", "us", or "the Developer"). This privacy policy explains
@@ -72,6 +72,21 @@ This data is used by Google and its advertising partners to select and
 measure advertising. It is not available to the Developer in a form
 that personally identifies you. We see only aggregated, anonymized
 metrics in our AdMob console.
+
+The App displays three AdMob ad formats:
+
+- **Banner** ads at the bottom of the game screen (shown continuously
+  while you play).
+- **Interstitial** ads after a fixed number of game-overs, no more often
+  than once every two minutes.
+- **App-Open** ads when you return to the App from the background, no
+  more often than once every four hours, suppressed for the first 30
+  seconds of a session, suppressed for 30 seconds after an interstitial,
+  and suppressed entirely if you have not granted advertising consent.
+
+All three formats are controlled by the consent dialog described in
+Section 5, are served by Google AdMob, and share the data flows
+described above.
 
 For full details on Google's advertising data practices:
 [Google Advertising Privacy & Terms](https://policies.google.com/technologies/ads).
