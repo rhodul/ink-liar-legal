@@ -131,7 +131,7 @@ of its source repository.
 For privacy questions specific to Ink Liar:
 
 **Developer:** Rastislav Hodul
-**Email:** rhodul@idbase.com
+**Email:** rhodul@gmail.com
 
 ---
 
